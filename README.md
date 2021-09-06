@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LupsakkaKurki
-- 👀 I’m interested in History, Literature, Music, Psychology, and of course Programming.
+- 👀 I’m interested in History, Literature, Music, Psychology, Writing and of course Programming.
 - 🌱 I’m currently learning to be better at Python, as well as c++ for programming, and Psychology as my main subject.
 - 💞️ I’m looking to collaborate on CodeWars problems.
 - 📫 How to reach me molakhit@gmail.com
